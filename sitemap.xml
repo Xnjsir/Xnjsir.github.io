@@ -74,7 +74,7 @@
 
   
   <url>
-    <loc>http://example.com/tags/website/</loc>
+    <loc>http://example.com/tags/test/</loc>
     <lastmod>2024-08-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -88,7 +88,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/tags/test/</loc>
+    <loc>http://example.com/tags/website/</loc>
     <lastmod>2024-08-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
