@@ -70,9 +70,9 @@
     <link href="http://example.com/posts/0.html"/>
     <id>http://example.com/posts/0.html</id>
     <published>2024-08-06T04:01:00.000Z</published>
-    <updated>2024-08-06T04:46:03.426Z</updated>
+    <updated>2024-08-06T11:15:06.676Z</updated>
     
-    <content type="html"><![CDATA[<p>我是文章测试</p>]]></content>
+    <content type="html"><![CDATA[<p>我是文章测试<br>目前已成功上线</p>]]></content>
     
     
     <summary type="html">这是一篇用于测试的文章</summary>
