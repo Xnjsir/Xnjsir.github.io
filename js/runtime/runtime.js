@@ -1,6 +1,8 @@
 var now = new Date;
 function createtime() {
     var t = new Date("08/05/2024 00:00:00");
+    lt = Math.trunc(234e8 + (now - t) / 1e3 * 17), 
+    la = (t / 1496e5).toFixed(6),
     now.setTime(now.getTime() + 250);
     var e = (now - t) / 1e3 / 60 / 60 / 24,
         a = Math.floor(e),
@@ -12,7 +14,20 @@ function createtime() {
     var o = (now - t) / 1e3 - 86400 * a - 3600 * r - 60 * i,
         l = Math.round(o);
     1 == String(l).length && (l = "0" + l); let g = "";
-    g = r < 18 && r >= 9 ? `<img class='boardsign' src='' title='距离月入25k也就还差一个大佬带我~'><span class='textTip'> <br> 本站居然运行了 ${a} 天</span><span id='runtime'> ${r} 小时 ${i} 分 ${l} 秒 </span> <i class='fas fa-heartbeat' style='color:red'></i>` 
-    : `<img class='boardsign' src='' title='下班了就该开开心心的玩耍，嘿嘿~'><span class='textTip'> <br> 本站居然运行了 ${a} 天</span><span id='runtime'> ${r} 小时 ${i} 分 ${l} 秒 </span> <i class='fas fa-heartbeat' style='color:red'></i>`, 
-    document.getElementById("workboard") && (document.getElementById("workboard").innerHTML = g)
+    g = r < 18 && r >= 9 ? `<img class='boardsign' src='https://img.shields.io/badge/F小屋-科研摸鱼中-6adea?style=social&logo=cakephp' 
+    title='什么时候能实现财富自由呢~'>
+    <span class='textTip'> 
+    <br> 本站已运行 ${a} 天</span><span id='runtime'> ${r} 小时 ${i} 分 ${l} 秒 </span> 
+    <i class='fas fa-heartbeat' style='color:red'></i>
+    <br> 旅行者 1 号当前距离地球 ${lt} 千米，约为 ${la} 个天文单位 🚀</div>`
+        : `<img class='boardsign' src='https://img.shields.io/badge/F小屋-下班休息啦-6adea8?style=social&logo=coffeescript' 
+        title='下班了就该开开心心的玩耍，嘿嘿~'>
+        <span class='textTip'> 
+        <br> 本站居然运行了 ${a} 天</span><span id='runtime'> ${r} 小时 ${i} 分 ${l} 秒 </span>
+         <i class='fas fa-heartbeat' style='color:red'></i>
+         <br> 旅行者 1 号当前距离地球 ${lt} 千米，约为 ${la} 个天文单位 🚀</div>`,
+        document.getElementById("workboard") && (document.getElementById("workboard").innerHTML = g)
 } setInterval((() => { createtime() }), 250);
+
+
+
