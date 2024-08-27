@@ -101,7 +101,7 @@
     background-color: transparent !important;
   }
 
- 
+
   
   /* 首页文章卡片 */
   #recent-posts > .recent-post-item {
@@ -128,6 +128,12 @@
     border-radius: 20px;
   }
   
+  
+  /* 文章title部分居中 */
+  div#post-info{
+    text-align: center;
+  }
+
   /* 标签页面 */
   div#tag {
     background: rgba(255, 255, 255, 0.9);
@@ -686,26 +692,6 @@
   -o-transform: scale(0.5);
 }
 
-/* 帧率检测 */
-#fps {
-  position: fixed;
-  /* 指定位置 */
-  left: 10px;
-  top: 65px;
-  z-index: 1919810;
-}
-[data-theme="light"] #fps {
-  background-color: rgba(255, 255, 255, 0.85);
-  backdrop-filter: var(--backdrop-filter);
-  padding: 4px;
-  border-radius: 4px;
-}
-[data-theme="dark"] #fps {
-  background-color: rgba(0, 0, 0, 0.72);
-  backdrop-filter: var(--backdrop-filter);
-  padding: 4px;
-  border-radius: 4px;
-} 
 
 /*----------------------------------*/
 /* 设置文字内容 :nth-child(1)的作用是选择第几个 */

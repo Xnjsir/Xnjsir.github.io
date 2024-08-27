@@ -65,24 +65,6 @@
   </url>
   
   <url>
-    <loc>http://xusir.fun/categories/index.html</loc>
-    
-    <lastmod>2024-08-27</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://xusir.fun/about/index.html</loc>
-    
-    <lastmod>2024-08-27</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>http://xusir.fun/posts/2408251503.html</loc>
     
     <lastmod>2024-08-27</lastmod>
@@ -129,6 +111,15 @@
   
   <url>
     <loc>http://xusir.fun/posts/2408060023.html</loc>
+    
+    <lastmod>2024-08-27</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://xusir.fun/posts/2408272202.html</loc>
     
     <lastmod>2024-08-27</lastmod>
     
@@ -199,6 +190,24 @@
     <priority>0.6</priority>
   </url>
   
+  <url>
+    <loc>http://xusir.fun/about/index.html</loc>
+    
+    <lastmod>2024-08-27</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://xusir.fun/categories/index.html</loc>
+    
+    <lastmod>2024-08-27</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
 
   <url>
     <loc>http://xusir.fun/</loc>
@@ -259,6 +268,13 @@
   
   <url>
     <loc>http://xusir.fun/tags/tag/</loc>
+    <lastmod>2024-08-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://xusir.fun/tags/%E4%BD%9C%E4%B8%BA%E6%97%A5%E8%AE%B0%E5%8A%A0%E5%AF%86/</loc>
     <lastmod>2024-08-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
