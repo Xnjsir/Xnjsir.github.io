@@ -732,3 +732,7 @@
 }
 
 /*----------------------------------*/
+.loading-img {
+  background: url(https://picbed.xusir.fun/img/headlogo.png) no-repeat center center;
+  background-size: cover;
+}
