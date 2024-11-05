@@ -65,6 +65,15 @@
   </url>
   
   <url>
+    <loc>https://xusir.fun/posts/2408141332.html</loc>
+    
+    <lastmod>2024-11-05</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://xusir.fun/posts/2409071039.html</loc>
     
     <lastmod>2024-11-05</lastmod>
@@ -245,6 +254,15 @@
   </url>
   
   <url>
+    <loc>https://xusir.fun/posts/2411052130.html</loc>
+    
+    <lastmod>2024-11-05</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://xusir.fun/posts/202409042224.html</loc>
     
     <lastmod>2024-11-05</lastmod>
@@ -344,15 +362,6 @@
   </url>
   
   <url>
-    <loc>https://xusir.fun/posts/2408141332.html</loc>
-    
-    <lastmod>2024-11-05</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://xusir.fun/posts/2409261458.html</loc>
     
     <lastmod>2024-11-05</lastmod>
@@ -362,7 +371,7 @@
   </url>
   
   <url>
-    <loc>https://xusir.fun/posts/2409181918.html</loc>
+    <loc>https://xusir.fun/posts/2409071035.html</loc>
     
     <lastmod>2024-11-05</lastmod>
     
@@ -371,7 +380,7 @@
   </url>
   
   <url>
-    <loc>https://xusir.fun/posts/2409071035.html</loc>
+    <loc>https://xusir.fun/posts/2409181918.html</loc>
     
     <lastmod>2024-11-05</lastmod>
     
@@ -432,6 +441,13 @@
   
   <url>
     <loc>https://xusir.fun/tags/springboot/</loc>
+    <lastmod>2024-11-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://xusir.fun/tags/springmvc/</loc>
     <lastmod>2024-11-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -550,6 +566,13 @@
   </url>
   
   <url>
+    <loc>https://xusir.fun/tags/EasyCaptcha/</loc>
+    <lastmod>2024-11-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://xusir.fun/tags/%E7%AE%97%E6%B3%95/</loc>
     <lastmod>2024-11-05</lastmod>
     <changefreq>weekly</changefreq>
@@ -565,13 +588,6 @@
   
   <url>
     <loc>https://xusir.fun/tags/%E5%9B%BE%E5%BA%8A/</loc>
-    <lastmod>2024-11-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://xusir.fun/tags/springmvc/</loc>
     <lastmod>2024-11-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
